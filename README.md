@@ -12,13 +12,13 @@ Common use cases, and desired functions:
   - Low-volume self-hosted services (public tunnelled) 
   - Redirection of higher-traffic spillover to external cloud services
   - Built-in file and database backups, and volume snapshots
-  - Extending redundancy of locally-hosted k8s services between sites you own (e.g. office and home) 
   - Integrating with commercial cloud service providers like AWS Azure GCP DigitalOcean etc
-  -100% self-host your data and services when you desire greater control over
+  - Extending redundancy of locally-hosted k8s services between clusters you own (e.g. office and home) 
+
+100% self-host your data and services when you desire greater control over
     - data privacy
     - data sovereignty
     - source code integrity
-
 
 Related topics:
   - k8s hosted databases
